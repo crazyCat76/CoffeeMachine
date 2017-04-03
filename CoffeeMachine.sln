@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineApp", "CoffeeMachine\CoffeeMachineApp.csproj", "{49403C6B-CBE2-4776-97FD-A2BB9E4952F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine.Tests", "UnitTestProject1\CoffeeMachine.Tests.csproj", "{A0A106F0-6372-4B3C-B100-8345D22A4E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine.Interfaces", "Interfaces\CoffeeMachine.Interfaces.csproj", "{FDED0011-68E8-44BA-B307-0CC3966E9D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49403C6B-CBE2-4776-97FD-A2BB9E4952F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49403C6B-CBE2-4776-97FD-A2BB9E4952F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49403C6B-CBE2-4776-97FD-A2BB9E4952F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49403C6B-CBE2-4776-97FD-A2BB9E4952F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A106F0-6372-4B3C-B100-8345D22A4E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A106F0-6372-4B3C-B100-8345D22A4E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A106F0-6372-4B3C-B100-8345D22A4E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A106F0-6372-4B3C-B100-8345D22A4E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDED0011-68E8-44BA-B307-0CC3966E9D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDED0011-68E8-44BA-B307-0CC3966E9D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDED0011-68E8-44BA-B307-0CC3966E9D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDED0011-68E8-44BA-B307-0CC3966E9D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
